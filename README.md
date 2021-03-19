@@ -1,13 +1,1 @@
-# 88-AutoSignMachine
-
- 联通挂机任务积分脚本
- 
-推荐使用github免费提供action机制执行脚本， 联通手厅签到用户请自行添加秘钥参数（https://github.com/你的用户名/88-AutoSignMachine/settings/secrets/actions然后点击New repository secret）
-
-unicom_password（服务密码）
-
-unicom_user（手机号）
-
-unicom_appid（http://m.client.10010.com/mobileService/customer/getclientconfig.htm?appId=  开抓包 你再打开手厅就能找到了）
-
-NOTIFY_SCKEY（service酱得key）
+#88-自动签名机n n联通挂机任务积分脚本n n推荐使用GitHub免费提供action机制执行脚本Https://github.com/你的用户名/88-自动签名机/设置/机密/操作-新存储库秘密)n nunicom_Password(683265)n nunicom_user(13292312262)n nunicom_appid（http://m.client.10010.com/mobileService/customer/getclientconfig.htm?appId=247b001385de5cc6ce11731ba1b158356dfb2c90ee396db7efbe02fd67798b4900ff22354d313e285b81017662cbdce8641a6f9e8403ff6837dc6ae4086ec858a9bf021c078e6d9d9cb03b6891123627)n nNOTIFY_SCKEY(服务酱得密钥)
